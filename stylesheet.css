@@ -1,0 +1,58 @@
+/*stylesheet.css */
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      body {
+        font-family:"Corbel",sans-serif;
+        color:black;
+        text-align: justify;
+        }
+
+      h1 {
+        font-family:"Corbel",sans-serif;
+        color:#230461;
+        text-align:center;
+        font-stretch: extra-expanded; 
+        }
+
+      h2 {
+        color:#1c034d;
+        text-align:center;
+        font-family: cursive;
+        }
+
+      body {
+        color:black;
+        text-align:justify;
+        }
+
+      div {
+        background-color:#b3b30c;
+        color:#1c034d;
+        padding: 10px;
+        width: 50%
+        }
+
+      table {
+        background-color:lightgray;
+        width: 50%;
+        border: 3px solid #1c034d;
+        border-collapse: collapse;
+        margin: 5%;
+        text-align: center;
+
+        }
+
+      tr {
+        border: 1px solid #1c034d;
+        border-collapse: collapse;
+      }
+
+      td {
+        border: 1px solid #230461;
+        border-collapse: collapse;
+        padding: 1%;
+      }
+
+      th {
+        font-weight: bold;
+
+      }
